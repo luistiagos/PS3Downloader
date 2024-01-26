@@ -1,0 +1,17 @@
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\PS3 Downloader.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\PS3 Downloader.AssemblyInfoInputs.cache
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\PS3 Downloader.AssemblyInfo.cs
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\PS3 Downloader.csproj.CoreCompileInputs.cache
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Debug\net8.0-windows\PS3 Downloader.exe
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Debug\net8.0-windows\PS3 Downloader.deps.json
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Debug\net8.0-windows\PS3 Downloader.runtimeconfig.json
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Debug\net8.0-windows\PS3 Downloader.dll
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Debug\net8.0-windows\PS3 Downloader.pdb
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\PS3 Downloader.dll
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\refint\PS3 Downloader.dll
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\PS3 Downloader.pdb
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\PS3 Downloader.genruntimeconfig.cache
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\ref\PS3 Downloader.dll
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\PS3DownloaderForm.resources
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\PS3 Downloader.csproj.GenerateResource.cache
+D:\projetos\PS3 Downloader\PS3 Downloader\obj\Debug\net8.0-windows\ProgressForm.resources

@@ -1,0 +1,5 @@
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Release\net8.0-windows\publish\PS3 Downloader.exe
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Release\net8.0-windows\publish\PS3 Downloader.dll
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Release\net8.0-windows\publish\PS3 Downloader.deps.json
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Release\net8.0-windows\publish\PS3 Downloader.runtimeconfig.json
+D:\projetos\PS3 Downloader\PS3 Downloader\bin\Release\net8.0-windows\publish\PS3 Downloader.pdb
